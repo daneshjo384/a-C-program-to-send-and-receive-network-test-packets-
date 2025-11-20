@@ -1,0 +1,15 @@
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\bin\Debug\net6.0\sendrecivenetworkpacket.exe
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\bin\Debug\net6.0\sendrecivenetworkpacket.deps.json
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\bin\Debug\net6.0\sendrecivenetworkpacket.runtimeconfig.json
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\bin\Debug\net6.0\sendrecivenetworkpacket.dll
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\bin\Debug\net6.0\sendrecivenetworkpacket.pdb
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.csproj.AssemblyReference.cache
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.AssemblyInfoInputs.cache
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.AssemblyInfo.cs
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.csproj.CoreCompileInputs.cache
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.dll
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\refint\sendrecivenetworkpacket.dll
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.pdb
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\sendrecivenetworkpacket.genruntimeconfig.cache
+C:\Users\Hosein\source\repos\sendrecivenetworkpacket\obj\Debug\net6.0\ref\sendrecivenetworkpacket.dll
